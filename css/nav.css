@@ -6,7 +6,7 @@ header {
 
 .header li a {
     display: block;
-    border-right: 1px solid #70e1fa;
+    /* border-right: 1px solid #70e1fa; */
     text-decoration: none;
     color: #031f9a;
     font-weight: 400;
