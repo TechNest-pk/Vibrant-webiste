@@ -1,14 +1,14 @@
 /* header */
 
 header {
-    background: #0fcef7;
+    background: #008081;
 }
 
 .header li a {
     display: block;
     /* border-right: 1px solid #70e1fa; */
     text-decoration: none;
-    color: #031f9a;
+    color: black;
     font-weight: 400;
     letter-spacing: 1px;
     text-transform: capitalize;
@@ -21,20 +21,20 @@ header {
 .header li a:hover,
 .header .menu-btn:hover,
 li.nav-item.active {
-    background-color: #f4f4f4;
+    background-color: white;
 }
 
 .header .logo {
     font-size: 0.9em;
     padding: 10px 20px;
     text-decoration: none;
-    color: #ffffff;
+    color: black;
     font-weight: 600;
     letter-spacing: -1.5px;
 }
 
 .header .logo span {
-    color: rgba(255, 255, 255, 0.41);
+    color: white;
     margin-right: 10px;
 }
 
