@@ -660,6 +660,9 @@ span.icon_g_plus {
   -o-transition:all .2s linear;
   transition:all .2s linear
 }
+.technest{
+    color:white !important
+}
 .social-icons a:active,.social-icons a:focus,.social-icons a:hover
 {
   color:#fff;
