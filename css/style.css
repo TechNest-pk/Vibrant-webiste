@@ -661,7 +661,8 @@ span.icon_g_plus {
   transition:all .2s linear
 }
 .technest{
-    color:white !important
+    color:white !important;
+    text-decoration: 'none';
 }
 .social-icons a:active,.social-icons a:focus,.social-icons a:hover
 {
@@ -1016,3 +1017,5 @@ span.icon_g_plus {
 }
 
 /* -- //Responsive code -- */
+
+/* Navs hover */
