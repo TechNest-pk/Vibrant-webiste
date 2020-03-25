@@ -85,11 +85,11 @@ body a:focus {
 }
 
 .bg-theme {
-    background: #031f9a;
+    background: #008081;
 }
 
 .bg-theme1 {
-    background: #0fcef7;
+    background: #008081;
 }
 
 .w3ls_banner_txt {
@@ -100,7 +100,7 @@ body a:focus {
 }
 
 h3.w3ls_pvt-title {
-    color: #0fcef7;
+    color: #008081;
     text-shadow: 1px 1px 1px #000;
     text-transform: capitalize;
     font-weight: 800;
@@ -121,12 +121,12 @@ h3.w3ls_pvt-title {
 
 span.sub-title {
     font-size: 1em;
-    color: #0fcef7;
+    color: #008081;
     text-transform: capitalize;
 }
 
 h4.w3pvt-title {
-    color: #031f9a;
+    color: #008081;
     text-transform: capitalize;
     font-size: 2em;
     font-weight: 600;
