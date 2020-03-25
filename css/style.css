@@ -662,7 +662,7 @@ span.icon_g_plus {
 }
 .technest{
     color:white !important;
-    text-decoration: 'none';
+    /* text-decoration: 'none'; */
 }
 .social-icons a:active,.social-icons a:focus,.social-icons a:hover
 {
